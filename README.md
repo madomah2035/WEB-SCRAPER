@@ -1,2 +1,4 @@
 # WEB-SCRAPER
- 
+<h6>
+AUTHOR: MUSAH ADOMAH, <br> Sep, 2024.
+</h6>
